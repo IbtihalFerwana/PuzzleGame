@@ -1,2 +1,2 @@
 # PuzzleGame
-Implementation of (n*\n) puzzle using (A*) Search Algorithm 
+Implementation of (nxn) puzzle using (A*) Search Algorithm 
